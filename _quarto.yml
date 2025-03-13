@@ -1,0 +1,75 @@
+# This file controls the settings for your Quarto template from www.marvinschmitt.com
+
+# website settings
+website:
+  title: "Tatchaporn"                                # Your name
+  description: "Tatchaporn is a Thai neurologist interested in Multiple slerosis and Autoimmune neurology."   # A brief slogan (optional)
+  image: /img/image.jpg
+  
+  favicon: img/brain.png
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    logo: /img/brain.png
+    
+    # your sub-pages
+    left:
+      - text: "Publications"
+        href: publications/index.qmd
+      - text: "Presentations"
+        href: presentations/index.qmd
+      - text: "Interests"
+        href: interests/index.qmd
+      - text: "Blogs"
+        href: blogs/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+    
+    # your social media handles
+    right:
+    - icon: twitter
+      href: https://x.com/TatchapornO?t=SOnf9e8j2Pg_veiu_Nb9TA&s=09
+    - icon: facebook
+      href: https://www.facebook.com/katid.O?mibextid=ZbWKwL
+    - icon: person-workspace
+      href: https://www.researchgate.net/profile/Tatchaporn-Ongphichetmetha-2
+    - icon: envelope
+      href: "mailto:ongphit@ccf.org"   
+  
+  
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    left: |
+      <span class="faux-block">&#169; 2023 Marvin Schmitt CC BY-SA 4.0</span>
+
+
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true

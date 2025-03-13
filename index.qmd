@@ -1,0 +1,60 @@
+---
+title: "Tatchaporn Ongphichetmetha"
+about:
+  template: broadside
+  id: hero-heading
+  image: "img/tatchaporn.jpg"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/TatchapornO?t=SOnf9e8j2Pg_veiu_Nb9TA&s=09
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/katid.O?mibextid=ZbWKwL
+    - icon: person-workspace
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Tatchaporn-Ongphichetmetha-2
+    - icon: envelope
+      text: Email
+      href: "mailto:ongphit@ccf.org"  
+---
+
+:::{#hero-heading}
+
+Tatchaporn is a Thai neurologist focused on multiple sclerosis and autoimmune neurology. Tatchaporn is also eager to expand her expertise as a clinical epidemiologist, aiming to blend research with patient care.
+
+## Education
+
+Cleveland Clinic, Mellen Center for Multiple Sclerosis, USA  
+Fellow in Multiple Sclerosis and Autoimmune Neurology |  
+2024 - Present
+
+Case Western Reserve University, USA  
+Master's Degree Student in Clinical Research Scholar Program | 2024 - Present
+
+Faculty of Medicine, Chiang Mai University, Thailand  
+Diploma in Clinical Statistics | 2023
+
+Faculty of Medicine, Chiang Mai University, Thailand  
+Diploma in Clinical Epidemiology | 2022
+
+Mahidol University Siriraj Hospital, Thailand  
+Fellowship in Neuroimmunology | 2022 - 2023
+
+Faculty of Medicine, Chulalongkorn University, Thailand  
+Thai Board of Neurology | 2019 - 2022
+
+Faculty of Medicine, Chulalongkorn University, Thailand  
+MD (First Class Honors) | 2011 - 2016
+
+## Professional Position
+
+Staff |  2023 - Present  
+• Division of Clinical Epidemiology,  
+Department of Research and Development, 
+Faculty of Medicine, Mahidol University Siriraj Hospital, Thailand  
+• Siriraj Neuroimmunology Center,  
+Mahidol University Siriraj Hospital, Thailand  
+
+:::
+

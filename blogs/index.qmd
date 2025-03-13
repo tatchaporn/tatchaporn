@@ -1,0 +1,19 @@
+---
+title: Blogs
+---
+
+## How to Be a Modern Scientist: Key Lessons from Jeff Leek
+
+<img src="howtobe.jpg" style="height: 50%; width: 50%; object-fit: contain">
+
+In today’s fast-moving scientific world, being a great researcher isn’t just about running experiments—it’s also about writing clearly, engaging in peer review, and using social media effectively. When I read Jeff Leek’s How to Be a Modern Scientist, I realized just how much of modern science happens outside the lab. He offers a practical guide to navigating academia in the digital age, and I found his insights incredibly useful. Here are three key lessons from the book that really stuck with me.
+
+First, writing scientific papers isn’t just about presenting results- it’s about telling a compelling story. I’ve always thought that a well- written paper should be complex and technical, but Leek argues the opposite. He suggests using clear, simple language, even if it makes publishing harder, because ultimately, the goal is to communicate research effectively. I also liked his tip about starting with high-quality figures before writing, since most readers skim papers by looking at visuals first. His emphasis on collaboration made me rethink my approach to writing with co-authors- using tools like Google Docs or Overleaf instead of juggling multiple file versions just makes sense.
+
+Another thing I hadn’t really considered before was how to approach peer review strategically. Leek makes a great point about not overcommitting to reviewing too many papers, which I can see would lead to burnout. His advice to keep reviews concise and constructive really resonated with me—there’s no need to nitpick or rewrite someone else’s paper. I also found his discussion on post-publication peer review interesting. While the idea of openly discussing published research online is appealing, he argues that traditional peer review still plays a crucial role in filtering quality science. I tend to agree- while open discussion is valuable, having an initial layer of scrutiny is important.
+
+Finally, I never thought much about using social media for science, but Leek completely changed my perspective. He points out that Twitter (now X) has become a major platform for researchers, not just for sharing their own work but for engaging with the broader scientific community. His advice to balance self-promotion with sharing and discussing other people’s work makes a lot of sense—no one wants to follow someone who only talks about themselves. I also liked his take on online networking. It never occurred to me that building relationships online could lead to real-world collaborations at conferences, but now I see how valuable that could be.
+
+Reading this book made me rethink a lot of my assumptions about what it means to be a scientist today. Leek doesn’t just offer advice—he challenges outdated academic habits and encourages researchers to embrace new tools and strategies. Whether it’s writing, peer review, or social media, his insights have given me a fresh perspective on how to make my work more visible, impactful, and collaborative. If you’re navigating academia, I’d highly recommend giving this book a read!
+
+----

@@ -1,0 +1,44 @@
+---
+title: Presentations
+---
+
+## Oral Presentations
+
+<img src="pactrims2024.jpg" style="height: 50%; width: 50%; object-fit: contain">
+
+**Association between Volumetric Magnetic Resonance Imaging, and 
+neuroperformance measures in patients with Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease**, presented at the 14th Pan-Asian Committee for Treatment and Research in Multiple Sclerosis (2024), Bangkok, Thailand
+
+<img src="pactrims2023.jpg" style="height: 50%; width: 50%; object-fit: contain">
+
+**Efficacy and Safety of Extended Interval Rituximab in Multiple Sclerosis and Neuromyelitis Optica Spectrum Disorder**, presented at the 13th Pan-Asian Committee for Treatment and Research in Multiple Sclerosis (2023), Perth, Australia.
+
+----
+
+## Abstract Presentations
+
+|Topic                             |Meeting               |Year|Place|
+|----------------------------------|----------------------|----|-----|
+|Vaccination Coverage in Patients with Idiopathic Inflammatory Central Nervous System Demyelinating Diseases at Siriraj hospital, a Single-center Experience|The 12th Pan-Asian Committee for Treatment and Research in Multiple Sclerosis|2022|Singapore|
+|The Utility of Neurofilament Light Chain in Aetiologic Differentiation of Disorders of Consciousness|The XXVI World Congress of Neurology|2023|Montreal, Canada|
+|Tumefactive Demyelinating Lesions: A Retrospective Cohort Study in Thailand|The 39th Congress of the European Committee for Treatment and Research in Multiple Sclerosis - the American Committee for Treatment and Research in Multiple Sclerosis|2023|Milan, Italy|
+|Neuromyelitis Optica Spectrum Disorder and Pregnancy: Insights from a Single-Center Study in Thailand|The 15th Pan-Asian Committee for Treatment and Research in Multiple Sclerosis|2024|Thailand|
+|Rituximab in Secondary Progressive Multiple Sclerosis-a Meta-analysis|The 15th Pan-Asian Committee for Treatment and Research in Multiple Sclerosis|2024|Thailand|
+|The Prevalence of Sleep Abnormalities in Patients with Neuromyelitis Optica Spectrum Disorder: An Actigraphy Study|The 15th Pan-Asian Committee for Treatment and Research in Multiple Sclerosis|2024|Thailand|
+|Volumetric Magnetic Resonance Imaging Changes in Aquaporin-4 Neuromyelitis Optica Spectrum Disorder Compared to Multiple Sclerosis|The 10th annual Americas Committee for Treatment and Research in Multiple Sclerosis (ACTRIMS) Forum|2025|West Palm Beach, USA|
+|Frequency of Seroconversion in Aquaporin-4 Antibody Testing: Insights from Real-World Data|The 10th annual Americas Committee for Treatment and Research in Multiple Sclerosis (ACTRIMS) Forum|2025|West Palm Beach, USA|
+
+
+
+----
+
+## Invited Lectures
+
+|Topic                                        |             Meeting         |   Year    |Place|
+|----------------------------------------------|-------------------------------|----------|----|
+|Neurofilament Light Chain and Its Application in MS|The 4th MS Preceptorship|February 2023|Mahidol University Siriraj Hospital|
+|CNS Inflammatory Demyelinating Diseases: Practical Overview for Internists|The Annual Conference in Medicine|July 2023|Surat Thani Hospital, Thailand|
+|Natalizumab|The 5th MS Preceptorship|December 2024|Mahidol University Siriraj Hospital|
+|Teriflunomide|The 5th MS Preceptorship|December 2024|Mahidol University Siriraj Hospital|
+|Approach to Atypical Myelopathies|The 13th Siriraj Neuroscience Annual Conference|January 2024|Mahidol University Siriraj Hospital|
+|Dimethyl Fumarate|The 3rd MS on Tour|February 2024|Ubon Ratchathani, Thailand|
